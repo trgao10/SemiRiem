@@ -1,5 +1,4 @@
-# SemiRiem
-Semi-Riemannian Manifold Optimization
+# Semi-Riemannian Manifold Optimization
 
 ------
 
