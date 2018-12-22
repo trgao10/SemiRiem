@@ -2,7 +2,7 @@
 
 ------
 
-This repository contains MATLAB code accompanying the preprint "Semi-Riemannian Manifold Optimization" by Tingran Gao, Lek-Heng Lim, and Ke Ye.
+This repository contains MATLAB code accompanying the preprint [Semi-Riemannian Manifold Optimization][https://arxiv.org/abs/1812.07643] (arXiv:1812.07643) by [Tingran Gao][https://gaotingran.com/], [Lek-Heng Lim][https://www.stat.uchicago.edu/~lekheng/], and [Ke Ye][https://sites.google.com/site/keyeshomepage/home].
 
 To run these scripts, please ensure the [ManOpt](https://www.manopt.org/) toolbox is in your path (e.g. by running command `run manopt/importmanopt.m` in the MATLAB console).
 
